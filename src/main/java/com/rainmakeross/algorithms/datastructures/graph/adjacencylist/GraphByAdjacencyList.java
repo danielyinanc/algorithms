@@ -1,4 +1,4 @@
-package datastructures.graph.adjacencylist;
+package com.rainmakeross.algorithms.datastructures.graph.adjacencylist;
 
 import java.util.Iterator;
 import java.util.LinkedList;

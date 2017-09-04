@@ -1,8 +1,8 @@
-package algorithms.graphtraversal;
+package com.rainmakeross.algorithms.types.graphtraversal;
 
-import datastructures.edge.Edge;
-import datastructures.graph.Graph;
-import datastructures.node.Node;
+import com.rainmakeross.algorithms.datastructures.edge.Edge;
+import com.rainmakeross.algorithms.datastructures.graph.Graph;
+import com.rainmakeross.algorithms.datastructures.node.Node;
 
 import java.util.Stack;
 

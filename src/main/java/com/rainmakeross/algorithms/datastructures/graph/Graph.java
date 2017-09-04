@@ -1,6 +1,6 @@
-package datastructures.graph;
+package com.rainmakeross.algorithms.datastructures.graph;
 
-import datastructures.node.Node;
+import com.rainmakeross.algorithms.datastructures.node.Node;
 
 import java.util.ArrayList;
 import java.util.List;
