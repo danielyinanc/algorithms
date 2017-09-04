@@ -22,7 +22,12 @@ Please not that all space complexity analysis below ignore inputs.
 - Coin Change: An exponential time complexity O(2^N) with O(1) space complexity
 ### Greedy 
 - Coin Change: A linear time and space complexity of O(n) where n is unique coin values. However note
- that greedy algorithm does NOT result in optimal coin values for certain coin values such as 6 or 7. 
+ that greedy algorithm does NOT result in optimal coin values for certain coin values such as 6 or 7.
+- Minimum Absolute Difference: Taken from HackerRank challenge of the same name (2). It involves sorting hence n*log(n) + iterative looping over values
+which is n hence n+n*log(n) ~ n*log(n) for large n.
+- MarksCakeWalk: Taken from HackerRank challenge of the same name (3). It involves sorting hence n*log(n) + iterative looping over values
+which is n hence n+n*log(n) ~ n*log(n) for large n.
+
 ### Dynamic Programming
 - Coin Change: A linear time complexity O(n) with several space complexity implementations.
     * dynamicCoinChange has time and space complexity of O(a*k) where a is the amount and k is the number of coins
@@ -33,3 +38,5 @@ Please not that all space complexity analysis below ignore inputs.
 
 References 
 1 - https://en.wikipedia.org/wiki/Algorithm
+2 - https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array
+3 - https://www.hackerrank.com/challenges/marcs-cakewalk
