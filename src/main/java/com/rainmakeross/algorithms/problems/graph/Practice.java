@@ -1,4 +1,4 @@
-package com.rainmakeross.algorithms.types.graphtraversal;
+package com.rainmakeross.algorithms.problems.graph;
 
 import com.rainmakeross.algorithms.datastructures.edge.Edge;
 import com.rainmakeross.algorithms.datastructures.graph.Graph;

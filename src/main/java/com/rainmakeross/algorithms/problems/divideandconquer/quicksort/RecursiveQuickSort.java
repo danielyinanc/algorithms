@@ -1,4 +1,4 @@
-package com.rainmakeross.algorithms.types.divideandconquer.quicksort;
+package com.rainmakeross.algorithms.problems.divideandconquer.quicksort;
 
 import java.util.ArrayList;
 import java.util.List;

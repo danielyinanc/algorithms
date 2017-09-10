@@ -1,4 +1,4 @@
-package com.rainmakeross.algorithms.types.greedy;
+package com.rainmakeross.algorithms.problems.greedy;
 
 import java.util.Arrays;
 import java.util.Collections;

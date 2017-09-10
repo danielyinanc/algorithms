@@ -1,4 +1,4 @@
-package com.rainmakeross.algorithms.types.greedy.coinchange;
+package com.rainmakeross.algorithms.problems.greedy.coinchange;
 
 
 public class Practice {

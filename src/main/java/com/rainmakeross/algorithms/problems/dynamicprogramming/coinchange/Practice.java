@@ -1,4 +1,4 @@
-package com.rainmakeross.algorithms.types.dynamicprogramming.coinchange;
+package com.rainmakeross.algorithms.problems.dynamicprogramming.coinchange;
 
 
 public class Practice {

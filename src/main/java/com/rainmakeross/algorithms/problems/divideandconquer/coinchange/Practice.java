@@ -1,4 +1,4 @@
-package com.rainmakeross.algorithms.types.divideandconquer.coinchange;
+package com.rainmakeross.algorithms.problems.divideandconquer.coinchange;
 
 
 public class Practice {

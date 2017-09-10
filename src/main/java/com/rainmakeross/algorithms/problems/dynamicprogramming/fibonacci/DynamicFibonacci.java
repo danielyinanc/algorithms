@@ -1,4 +1,4 @@
-package com.rainmakeross.algorithms.types.dynamicprogramming.fibonacci;
+package com.rainmakeross.algorithms.problems.dynamicprogramming.fibonacci;
 
 
 /**
