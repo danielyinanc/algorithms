@@ -68,7 +68,38 @@ public class Practice {
         int m = arr.length;
         System.out.println( countWays(arr, arr.length,4));
 
-
     }
+
+
+    //HackerRank main, int and longs fixed
+/*    private static final Scanner scanner = new Scanner(System.in);
+
+    public static void main(String[] args) throws IOException {
+        BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(System.getenv("OUTPUT_PATH")));
+
+        String[] nm = scanner.nextLine().split(" ");
+
+        int n = Integer.parseInt(nm[0]);
+
+        int m = Integer.parseInt(nm[1]);
+
+        int[] c = new int[m];
+
+        String[] cItems = scanner.nextLine().split(" ");
+        scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");
+
+        for (int i = 0; i < m; i++) {
+            int cItem = Integer.valueOf(cItems[i]);
+            c[i] = cItem;
+        }
+
+        // Print the number of ways of making change for 'n' units using coins having the values given by 'c'
+
+        long ways = countWays(c, m, n);
+        bufferedWriter.write(String.valueOf(ways));
+        bufferedWriter.close();
+
+        scanner.close();
+    }*/
 
 }
