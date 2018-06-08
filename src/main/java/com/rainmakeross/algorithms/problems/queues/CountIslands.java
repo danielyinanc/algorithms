@@ -46,5 +46,4 @@ public class CountIslands {
         return (i<0 || j<0) && (i>9 || j>9);
     }
 
-    private static
 }
